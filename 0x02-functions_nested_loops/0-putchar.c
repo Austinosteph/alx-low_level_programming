@@ -1,10 +1,10 @@
 #include <main.h>
 
-int main(void)
+int put(void)
 {
              char pc = "_putchar"
 
-              _putchar ("pc")
-              _putchar("\n")
-              return (0)
+             _putchar ("pc");
+             _putchar("\n");
+             return (0);
 }
