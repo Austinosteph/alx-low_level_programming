@@ -2,6 +2,9 @@
 
 int main(void)
 {
-              _putchar("_putchar/n")
+             char pc = "_putchar"
+
+              _putchar ("pc")
+              _putchar("\n")
               return (0)
 }
