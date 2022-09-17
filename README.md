@@ -1,1 +1,1 @@
-variables in c
+learning c in a hard way
