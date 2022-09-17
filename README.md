@@ -1,1 +1,2 @@
-learning c in a hard way
+my readme file for c programming langauge
+
